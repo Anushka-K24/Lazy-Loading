@@ -1,0 +1,14 @@
+.image {
+    display: block;
+    margin-top: 600px;
+    margin-left: 30%;
+    width: 700px;
+height: 400px;
+border: 1px solid white;
+border-radius: 5px;
+}
+
+h1{
+   margin-left: 40%;
+   margin-top: 20px;
+}
